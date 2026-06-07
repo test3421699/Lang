@@ -1,0 +1,6 @@
+{
+  "name": "Language Learning AI Partner",
+  "description": "A real-time conversational language practice partner using AI voice synthesis, pronunciation analysis, and spelling correction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
